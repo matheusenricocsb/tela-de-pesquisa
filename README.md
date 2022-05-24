@@ -1,3 +1,3 @@
 # tela-de-pesquisa
 
-<img src="Capturar.PNG">
+<img src="Capturar.png">
